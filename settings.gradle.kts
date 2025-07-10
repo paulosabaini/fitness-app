@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Fitness App"
 include(":app")
+include(":core:network")
